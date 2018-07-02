@@ -4,6 +4,7 @@
     "description": "Extension pack for Angular development",
     "version": "0.0.1",
     "publisher": "rmaldonado",
+    "icon": "images/angular.png",
     "engines": {
         "vscode": "^1.24.0"
     },
