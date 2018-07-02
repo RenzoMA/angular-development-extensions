@@ -1,0 +1,25 @@
+{
+    "name": "angular-extension-pack",
+    "displayName": "Angular extension pack",
+    "description": "Extension pack for Angular development",
+    "version": "0.0.1",
+    "publisher": "rmaldonado",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "Angular.ng-template", 
+        "christian-kohler.path-intellisense", 
+        "eamodio.gitlens", 
+        "EditorConfig.EditorConfig", 
+        "eg2.tslint", 
+        "esbenp.prettier-vscode", 
+        "johnpapa.Angular2", 
+        "kisstkondoros.vscode-codemetrics", 
+        "msjsdiag.debugger-for-chrome", 
+        "natewallace.angular2-inline"
+    ]
+}
